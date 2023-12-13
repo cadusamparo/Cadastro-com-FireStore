@@ -4,7 +4,7 @@
 
 Aplicação front end e back end feita ao longo das aulas do curso **[Curso Web Moderno Completo com JavaScript + Projetos](https://www.udemy.com/course/curso-web/)
 
-O objetivo do projeto é mexer com o front e back end para aplicação em cadastro simples com fire store
+O objetivo do projeto é mexer com o front e back end para aplicação em cadastro simples com firebase
 
 # Objetivos
 
